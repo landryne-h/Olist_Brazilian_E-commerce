@@ -1,6 +1,6 @@
 # Analyse e-commerce Olist : projet SQL (PostgreSQL)
 
-Projet portfolio : construire de bout en bout une base de données relationnelle PostgreSQL à partir du dataset public **Olist** (e-commerce brésilien), la nettoyer, puis l'analyser en SQL.
+Construire de bout en bout une base de données relationnelle PostgreSQL à partir du dataset public **Olist** (e-commerce brésilien), la nettoyer, puis l'analyser en SQL.
 
 > 🚧 **Projet en cours.** Ce dépôt est mis à jour au fur et à mesure de l'avancement.
 
