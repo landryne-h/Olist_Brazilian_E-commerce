@@ -60,7 +60,7 @@ La table `geolocation` n'a aucune clé étrangère : elle sert de référentiel 
 
 - `01_creation.sql` : création des 9 tables
 
-Les autres scripts (import, nettoyage, analyses) seront ajoutés au fur et à mesure.
+Les autres scripts (nettoyage, analyses) seront ajoutés au fur et à mesure.
 
 ## Prochaines étapes
 
